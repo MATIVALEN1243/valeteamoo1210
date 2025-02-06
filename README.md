@@ -85,7 +85,7 @@
                 indice++;
                 boton.textContent = "Te amo por... (" + indice + " de " + razones.length + ")";
             } else {
-                boton.textContent = "Ya no hay más razones, te amo ❤️";
+                boton.textContent = "Ya no hay más razones,simplemente te amo valentina ❤️";
             }
         }
 
